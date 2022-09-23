@@ -1,5 +1,5 @@
 # RBM
-#This a group project of Operating system course. I have worked in a group of 3 students to develop a Room Booking manager
+#This a group project. I have worked in a group of 3 to develop a Room Booking manager
 
 A Room booking system was developed 10 years ago by a company, which has 3 meeting rooms available for booking along with other add on’s like webcam, projectors, monitors e.t.c. All three rooms have different capacities. The problem with the current booking system is that if the item user wants to book is already reserved, the system simply rejects the user’s request.
 
